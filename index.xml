@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>eur1kaの博客 - 一个菜鸡的自我救赎</title>
+        <link>https://luckly.work/</link>
+        <description>早起的年轻人做的网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>852851198@qq.com (一个菜鸡的自我救赎)</managingEditor>
+            <webMaster>852851198@qq.com (一个菜鸡的自我救赎)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 17 Aug 2021 03:20:15 &#43;0800</lastBuildDate>
+            <atom:link href="https://luckly.work/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First</title>
+    <link>https://luckly.work/first/</link>
+    <pubDate>Tue, 17 Aug 2021 03:20:15 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://luckly.work/first/</guid>
+    <description><![CDATA[demo text]]></description>
+</item></channel>
+</rss>
